@@ -12,7 +12,7 @@
 #define BUFFER_SIZE 64
 #define nom_fichier_size 20
 
-int main(int argc, char **argv[]){
+int main(){
 
 
 	const char welcome_msg[]="Bienvenue sur le shell de l'ENSEA\nPour quitter, tapez 'exit'\n";
