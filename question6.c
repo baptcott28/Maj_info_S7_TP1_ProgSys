@@ -10,7 +10,7 @@
 
 #define BUFFER_SIZE 64
 
-int main(int argc, char *argv[]){
+int main(){
 
 
 	const char welcome_msg[]="Bienvenue sur le shell de l'ENSEA\nPour quitter, tapez 'exit'\n";
